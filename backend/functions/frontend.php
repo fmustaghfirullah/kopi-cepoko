@@ -1,6 +1,6 @@
 <?php
 // Frontend functions for Kopi Cepoko website
-require_once __DIR__ . '/../config/database.php';
+require_once __DIR__ . '/../../config/database.php';
 
 
 class FrontendManager {
