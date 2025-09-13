@@ -231,6 +231,13 @@ class GalleryManager {
         $stmt = $this->db->prepare("DELETE FROM gallery WHERE id = ?");
         return $stmt->execute([$id]);
     }
+
+    // Get gallery item by ID
+    public function getGalleryItemById($id) {
+        $stmt = $this->db->prepare("SELECT * FROM gallery WHERE id = ?");
+        $stmt->execute([$id]);
+        return $stmt->fetch();
+    }
 }
 
 class OrderManager {
