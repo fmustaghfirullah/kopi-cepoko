@@ -94,7 +94,7 @@ function isLoggedIn() {
 // Redirect to login if not authenticated
 function requireLogin() {
     if (!isLoggedIn()) {
-        header('Location: ' . ADMIN_URL . '/index.php');
+        header('Location: ' . rtrim(ADMIN_URL, '/') . '/index.php');
         exit();
     }
 }

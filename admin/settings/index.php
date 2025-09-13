@@ -1,5 +1,4 @@
 <?php
-session_start();
 $pageTitle = 'Pengaturan Website';
 $currentPage = 'settings';
 require_once __DIR__ . '/../partials/header.php';
