@@ -1,6 +1,7 @@
 <?php
 // Frontend functions for Kopi Cepoko website
-require_once 'backend/config/database.php';
+require_once($_SERVER['DOCUMENT_ROOT'] . '/config/database.php');
+
 
 class FrontendManager {
     private $db;
