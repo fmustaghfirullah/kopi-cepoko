@@ -1,7 +1,7 @@
 <?php
 // Database configuration for Kopi Cepoko website
 // Designed for Hostinger deployment
-
+require_once($_SERVER['DOCUMENT_ROOT'] . '/config/database.php');
 class DatabaseConfig {
     // Database configuration constants
     const DB_HOST = 'localhost';        // Hostinger MySQL server
