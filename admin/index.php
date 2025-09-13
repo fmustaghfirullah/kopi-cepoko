@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $adminManager = new AdminManager();
         
         if ($adminManager->authenticate($username, $password)) {
-            header('Location: dashboard.php');
+            header('Location: settings/');
             exit();
         } else {
             $errorMessage = 'Username atau password salah';
@@ -260,11 +260,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     window.addEventListener('pageshow', function() {
         document.getElementById('password').value = '';
     });
-    
-    // Demo credentials helper (remove in production)
-    <?php if (ini_get('display_errors')): ?>
-    console.log('Demo credentials - Username: admin, Password: admin123');
-    <?php endif; ?>
     </script>
 </body>
 </html>

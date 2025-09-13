@@ -55,7 +55,7 @@ Website UMKM Kopi Cepoko adalah sistem manajemen konten lengkap untuk bisnis kop
 5. Klik **Go** untuk mengimport
 
 ### 5. Konfigurasi Database
-Edit file `backend/config/database.php`:
+Edit file `config/database.php`:
 
 ```php
 // Ganti dengan informasi database Anda

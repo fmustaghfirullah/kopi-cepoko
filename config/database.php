@@ -11,10 +11,10 @@ class DatabaseConfig {
     const DB_CHARSET = 'utf8mb4';       // Character set
     
     // Site configuration
-    const SITE_URL = 'https://cepoko.store/';  // Change to your domain
-    const ADMIN_URL = 'https://cepoko.store/admin';
-    const UPLOAD_PATH = '../backend/uploads/';
-    const UPLOAD_URL = 'backend/uploads/';
+    const SITE_URL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'];
+    const ADMIN_URL = self::SITE_URL . '/admin';
+    const UPLOAD_PATH = __DIR__ . '/../backend/uploads/';
+    const UPLOAD_URL = self::SITE_URL . '/backend/uploads/';
     
     // Security settings
     const SESSION_TIMEOUT = 3600; // 1 hour
