@@ -1,11 +1,4 @@
--- Database Schema for Kopi Cepoko UMKM Website
--- Created for Hostinger deployment
 
-CREATE DATABASE IF NOT EXISTS kopi_cepoko CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
-USE kopi_cepoko;
-
--- Admin users table
 CREATE TABLE IF NOT EXISTS admin_users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50) UNIQUE NOT NULL,

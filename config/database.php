@@ -5,9 +5,9 @@
 class DatabaseConfig {
     // Database configuration constants
     const DB_HOST = 'localhost';        // Hostinger MySQL server
-    const DB_NAME = 'kopi_cepoko';      // Database name
-    const DB_USER = 'root';             // Database username (change for production)
-    const DB_PASS = '';                 // Database password (change for production)
+    const DB_NAME = 'u198111822_cepoko';      // Database name
+    const DB_USER = 'u198111822_root';             // Database username (change for production)
+    const DB_PASS = 'KKN02Cepoko';                 // Database password (change for production)
     const DB_CHARSET = 'utf8mb4';       // Character set
     
     // Site configuration
