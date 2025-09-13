@@ -16,12 +16,6 @@ class AdminManager {
         $stmt->execute([$username]);
         $user = $stmt->fetch();
         
-        // Debugging statements
-        var_dump($user);
-        if ($user) {
-            var_dump(password_verify($password, $user['password']));
-        }
-
         if ($user && password_verify($password, $user['password'])) {
             startSecureSession();
             $_SESSION['admin_id'] = $user['id'];

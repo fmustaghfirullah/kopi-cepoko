@@ -1,5 +1,5 @@
 <?php
-require_once '../backend/config/database.php';
+require_once '../config/database.php';
 requireLogin();
 
 require_once '../backend/functions/admin.php';
