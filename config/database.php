@@ -11,8 +11,8 @@ class DatabaseConfig {
     const DB_CHARSET = 'utf8mb4';       // Character set
     
     // Site configuration
-    const SITE_URL = 'http://localhost/kopi-cepoko';  // Change to your domain
-    const ADMIN_URL = 'http://localhost/kopi-cepoko/admin';
+    const SITE_URL = 'https://cepoko.store/';  // Change to your domain
+    const ADMIN_URL = 'https://cepoko.store/admin';
     const UPLOAD_PATH = '../backend/uploads/';
     const UPLOAD_URL = 'backend/uploads/';
     
