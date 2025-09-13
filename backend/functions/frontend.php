@@ -1,6 +1,6 @@
 <?php
 // Frontend functions for Kopi Cepoko website
-require_once($_SERVER['DOCUMENT_ROOT'] . '/config/database.php');
+require_once __DIR__ . '/../config/database.php';
 
 
 class FrontendManager {
@@ -199,7 +199,8 @@ class FrontendManager {
 // Generate WhatsApp order message
 function generateWhatsAppMessage($orderData, $items) {
     $message = "🌟 *PESANAN KOPI CEPOKO* 🌟\n\n";
-    $message .= "📋 *Detail Pesanan:*\n";
+    $message .= "📋 *Detail Pesanan:*
+";
     $message .= "Nama: " . $orderData['customer_name'] . "\n";
     $message .= "Telepon: " . $orderData['customer_phone'] . "\n";
     if (!empty($orderData['customer_email'])) {
@@ -209,7 +210,8 @@ function generateWhatsAppMessage($orderData, $items) {
         $message .= "Alamat: " . $orderData['customer_address'] . "\n";
     }
     
-    $message .= "\n🛒 *Produk yang Dipesan:*\n";
+    $message .= "\n🛒 *Produk yang Dipesan:*
+";
     $total = 0;
     foreach ($items as $item) {
         $subtotal = $item['quantity'] * $item['price'];
@@ -221,7 +223,8 @@ function generateWhatsAppMessage($orderData, $items) {
     $message .= "\n💰 *Total: " . formatCurrency($total) . "*\n";
     
     if (!empty($orderData['notes'])) {
-        $message .= "\n📝 *Catatan:*\n" . $orderData['notes'] . "\n";
+        $message .= "\n📝 *Catatan:*
+" . $orderData['notes'] . "\n";
     }
     
     $message .= "\n🙏 Terima kasih telah memesan Kopi Cepoko!";

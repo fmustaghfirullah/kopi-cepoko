@@ -1,0 +1,210 @@
+[13-Sep-2025 16:08:08 UTC] PHP Warning:  require_once(backend/config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'backend/config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:08 UTC] PHP Warning:  require_once(backend/config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'backend/config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:08 UTC] PHP Warning:  require_once(backend/config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'backend/config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Warning:  require_once(backend/config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'backend/config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Warning:  require_once(backend/config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'backend/config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Warning:  require_once(backend/config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'backend/config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Warning:  require_once(backend/config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'backend/config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:10:57 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:10:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:10:58 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:10:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:03 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:04 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:05 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:05 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:05 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:06 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:14:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:15:49 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:15:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:15:52 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:15:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:15:52 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:15:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:16:11 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:16:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:16:11 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:16:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:16:12 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:16:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:10 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:18 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:41 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:42 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:43 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:45 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:46 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:46 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:46 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:17:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:18:32 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
+[13-Sep-2025 16:18:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php:3
+Stack trace:
+#0 /home/u198111822/domains/cepoko.store/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/u198111822/domains/cepoko.store/public_html/backend/functions/frontend.php on line 3
